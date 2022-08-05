@@ -1,0 +1,1 @@
+ipython kernel install --name "belcorp-hackaton" --user
